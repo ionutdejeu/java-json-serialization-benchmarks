@@ -1,0 +1,45 @@
+{
+  "_id": "5eb8486d776427b938698c6a",
+  "index": 0,
+  "guid": "0e539385-66e3-43aa-8e7e-97bd385c1069",
+  "isActive": true,
+  "balance": "$1,517.51",
+  "picture": "http://placehold.it/32x32",
+  "age": 36,
+  "eyeColor": "green",
+  "name": "Bauer Rivas",
+  "gender": "male",
+  "company": "LIMAGE",
+  "email": "bauerrivas@limage.com",
+  "phone": "+1 (863) 452-3911",
+  "address": "418 Bridgewater Street, Chamizal, Florida, 9639",
+  "about": "Cupidatat dolore in qui aliquip Lorem nostrud cupidatat qui voluptate ipsum enim. Aliquip sint Lorem officia Lorem. Minim tempor eiusmod fugiat qui dolore labore elit est.\r\n",
+  "registered": "2014-10-17T12:04:52 -03:00",
+  "latitude": -66.575661,
+  "longitude": -69.734584,
+  "tags": [
+    "do",
+    "labore",
+    "mollit",
+    "ut",
+    "non",
+    "qui",
+    "et"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Holloway Kinney"
+    },
+    {
+      "id": 1,
+      "name": "Gillespie Kline"
+    },
+    {
+      "id": 2,
+      "name": "Kelli Horn"
+    }
+  ],
+  "greeting": "Hello, Bauer Rivas! You have 5 unread messages.",
+  "favoriteFruit": "strawberry"
+}

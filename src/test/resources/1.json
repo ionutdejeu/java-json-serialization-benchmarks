@@ -1,0 +1,45 @@
+{
+  "_id": "5eb847fc3eb7ccdbfd3080e5",
+  "index": 0,
+  "guid": "6343ec1b-e0a5-402b-87a9-6bab83c83967",
+  "isActive": true,
+  "balance": "$2,790.23",
+  "picture": "http://placehold.it/32x32",
+  "age": 33,
+  "eyeColor": "green",
+  "name": "Pollard Knapp",
+  "gender": "male",
+  "company": "MINGA",
+  "email": "pollardknapp@minga.com",
+  "phone": "+1 (949) 417-2961",
+  "address": "920 Mill Street, Knowlton, Michigan, 3257",
+  "about": "Id nostrud quis pariatur anim. Laboris dolor ullamco consequat nulla aliquip. Sunt minim deserunt ex ex sint aute. Elit in sint id minim non veniam officia exercitation. Duis elit qui voluptate mollit culpa fugiat id cupidatat minim in nostrud ut. Quis do adipisicing sint velit reprehenderit pariatur sit ut cillum irure aute ipsum enim ea.\r\n",
+  "registered": "2018-12-15T11:05:03 -02:00",
+  "latitude": -18.225656,
+  "longitude": 172.673379,
+  "tags": [
+    "id",
+    "dolore",
+    "labore",
+    "nulla",
+    "culpa",
+    "quis",
+    "nisi"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Wheeler Hebert"
+    },
+    {
+      "id": 1,
+      "name": "Lora Brooks"
+    },
+    {
+      "id": 2,
+      "name": "Candace Daugherty"
+    }
+  ],
+  "greeting": "Hello, Pollard Knapp! You have 5 unread messages.",
+  "favoriteFruit": "strawberry"
+}

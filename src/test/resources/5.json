@@ -1,0 +1,45 @@
+{
+  "_id": "5eb84885dde5d6ce058ac919",
+  "index": 0,
+  "guid": "c22e2bcd-0dc3-4f8e-8be7-09179a813672",
+  "isActive": false,
+  "balance": "$2,568.64",
+  "picture": "http://placehold.it/32x32",
+  "age": 29,
+  "eyeColor": "green",
+  "name": "Terri Mcclure",
+  "gender": "female",
+  "company": "KEENGEN",
+  "email": "terrimcclure@keengen.com",
+  "phone": "+1 (988) 460-3188",
+  "address": "782 Sunnyside Court, Riverton, Puerto Rico, 978",
+  "about": "Id Lorem exercitation consectetur in eiusmod quis id aute. Irure consequat non laborum occaecat deserunt aliquip labore ad enim do duis exercitation. Adipisicing veniam id culpa ut deserunt dolor ullamco occaecat tempor pariatur eu. Cupidatat minim fugiat dolor consequat qui aliqua et culpa qui veniam commodo consectetur do eiusmod. Nulla exercitation pariatur irure ea id pariatur occaecat qui aliqua.\r\n",
+  "registered": "2014-05-30T07:08:58 -03:00",
+  "latitude": -11.003507,
+  "longitude": 50.838622,
+  "tags": [
+    "duis",
+    "id",
+    "ut",
+    "commodo",
+    "nulla",
+    "ullamco",
+    "esse"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Tracey Richardson"
+    },
+    {
+      "id": 1,
+      "name": "House Aguilar"
+    },
+    {
+      "id": 2,
+      "name": "Munoz Hoffman"
+    }
+  ],
+  "greeting": "Hello, Terri Mcclure! You have 3 unread messages.",
+  "favoriteFruit": "banana"
+}
